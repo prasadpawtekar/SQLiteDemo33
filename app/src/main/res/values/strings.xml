@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLiteDemo33</string>
+    <string name="hint_employee_name">Employee Name</string>
+    <string name="hint_email_id">Email Id</string>
+    <string name="btn_add_emp">Add Employee</string>
+    <string name="btn_show_employees">Show Employees</string>
+    <string name="title_add_employee">Add Employee</string>
+    <string name="title_all_employees">All Employees</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="hint_phone_number">Phone Number</string>
+</resources>
